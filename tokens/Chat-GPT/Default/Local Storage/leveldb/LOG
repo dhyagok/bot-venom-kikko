@@ -1,0 +1,12 @@
+2023/01/19-22:52:17.353 a90 Reusing MANIFEST C:\Users\Kikko\Desktop\zap-gpt-main\tokens\Chat-GPT\Default\Local Storage\leveldb/MANIFEST-000001
+2023/01/19-22:52:17.354 a90 Recovering log #3
+2023/01/19-22:52:17.355 a90 Reusing old log C:\Users\Kikko\Desktop\zap-gpt-main\tokens\Chat-GPT\Default\Local Storage\leveldb/000003.log 
+2023/01/19-22:57:17.668 2150 Level-0 table #5: started
+2023/01/19-22:57:17.673 2150 Level-0 table #5: 22254 bytes OK
+2023/01/19-22:57:17.676 2150 Delete type=0 #3
+2023/01/20-07:18:01.481 ba4 Level-0 table #7: started
+2023/01/20-07:18:01.485 ba4 Level-0 table #7: 14680 bytes OK
+2023/01/20-07:18:01.486 ba4 Delete type=0 #4
+2023/01/20-15:07:41.629 6dc Level-0 table #9: started
+2023/01/20-15:07:41.633 6dc Level-0 table #9: 14616 bytes OK
+2023/01/20-15:07:41.635 6dc Delete type=0 #6
