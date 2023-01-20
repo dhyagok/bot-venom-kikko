@@ -24,7 +24,7 @@ quando entrar vai pedir seu numero cel para confirmar e depois vc aperta em save
 
 
 
-BOT_NUMBER=5571986968601@c.us  E aqui vc vai TROCAR E colocar o código da sua cidade e seu numero celular. obs: só mude os numeros e salve.
+BOT_NUMBER=5571986868601@c.us  E aqui vc vai TROCAR E colocar o código da sua cidade e seu numero celular. obs: só mude os numeros e salve.
 
 pronto! agora é só abrir um novo terminal no visual studio e digitar o comando: npm start, vai gerar um qr e vc vai ter que scanear
 whatsapp, depois é só testar pedindo para alguém te mandar uma pergunta com /bot  sempre antes da pergunta ou vc mesmo pode mandar 
