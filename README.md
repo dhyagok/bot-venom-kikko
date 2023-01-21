@@ -1,7 +1,9 @@
 # bot-venom-kikko
 baixe o arquivo (código do programa)
-abra no visual studio
-no arquivo chamado  .env  vai está assim: 
+abra no visual studio,
+crie um arquivo e coloque o nome de  .env  
+
+dentro dele vai ter que ficar assim:  ⇩
 
 OPENAI_KEY=sk-otzoR9pkiur4rjxc5NDGT3BlbkFJ8rNsJdBUhzwahPfI
 ORGANIZATION_ID=org-UPmsCJTOetf2aUel6TX2
