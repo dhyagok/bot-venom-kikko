@@ -1,3 +1,14 @@
+instale as dependências 
+node js
+npm init
+Instale venom-bot como uma dependencia do seu projeto
+npm install venom-bot
+Instale openai como uma dependencia do seu projeto
+npm install openai
+Instale dotenv como uma dependencia do seu projeto
+npm install dotenv
+
+
 # bot-venom-kikko
 baixe o arquivo (código do programa)
 abra no visual studio,
